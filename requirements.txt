@@ -1,7 +1,7 @@
 streamlit
 joblib
 numpy
-pandas==2.2.0  # (Replace with your actual local version)
+pandas
 plotly
 openai
-scikit-learn==1.9.0 # (Replace with your actual local version)
+scikit-learn
